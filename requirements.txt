@@ -1,0 +1,7 @@
+cvlib
+opencv-python
+twilio
+smtplib
+ssl
+email
+imghdr
